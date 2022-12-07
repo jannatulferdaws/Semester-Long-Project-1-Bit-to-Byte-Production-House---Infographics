@@ -33,8 +33,7 @@
 ## Work Break-Down Structure:
 -------------------------------
 
-![image](https://user-images.githubusercontent.com/45651547/206247233-edb900c6-da2a-4654-9e56-1392ca097ca6.png)
-
+![image](https://user-images.githubusercontent.com/45651547/206258113-39678ce7-f5d7-4f8f-971d-270c9bf01d01.png)
 
 ## Meeting Minutes 02:
 -----------------------
@@ -44,7 +43,7 @@
 ## Infographic Flowchart:
 ---------------------------
 
-![image](https://user-images.githubusercontent.com/45651547/206248033-e2f1c65c-a608-4ff9-90cf-fe1473842432.png)
+![image](https://user-images.githubusercontent.com/45651547/206258387-8250ca4c-a5c5-4e6a-97ff-f26d14c376e0.png)
 
 ## Initial Version of Infographics:
 -------------------------------------
