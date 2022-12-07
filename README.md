@@ -8,8 +8,12 @@
 
 ### Objectives:
   1.To visualize the entire admissions test procedure at a glance.
+  
   2.To avoid confliction of different units admission criteria.
+  
   3.To convey the correct information of each unit and proper overview of each unit.
+  
   4.To make an effective and efficient admission process
+  
 
  
