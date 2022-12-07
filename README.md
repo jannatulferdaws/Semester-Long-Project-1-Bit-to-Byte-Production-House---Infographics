@@ -41,3 +41,16 @@
 
 ![image](https://user-images.githubusercontent.com/45651547/206247484-b29d5e3c-65b0-4c5a-985a-1877b43f8dc2.png)
 
+## Infographic Flowchart:
+---------------------------
+
+![image](https://user-images.githubusercontent.com/45651547/206248033-e2f1c65c-a608-4ff9-90cf-fe1473842432.png)
+
+## Initial Version of Infographics:
+-------------------------------------
+
+![image](https://user-images.githubusercontent.com/45651547/206248219-2810e219-13a7-44a6-baa2-bb19a6a6b94e.png)
+
+
+***** All of the Details are attached in this repositoru.
+
