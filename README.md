@@ -49,8 +49,7 @@
 ## Initial Version of Infographics:
 -------------------------------------
 
-![image](https://user-images.githubusercontent.com/45651547/206248219-2810e219-13a7-44a6-baa2-bb19a6a6b94e.png)
+![4](https://user-images.githubusercontent.com/45651547/206248673-de31db65-b8e3-48b8-a01b-bb8c5014bbcd.png)
 
-
-***** All of the Details are attached in this repositoru.
+***** All of the Details are attached in this repository.
 
