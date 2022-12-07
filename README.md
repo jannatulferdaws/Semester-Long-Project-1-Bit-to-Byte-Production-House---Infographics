@@ -19,7 +19,7 @@
  ## Meeting Minutes 01
  ----------------------
  
- ![image](https://user-images.githubusercontent.com/45651547/206246779-5bff5a41-f6c9-4bfa-8742-4e636dfb80ef.png)
+![image](https://user-images.githubusercontent.com/45651547/206247746-e7b080c8-75b9-46a3-a042-df14a353cd8d.png)
 
 ## Required Tools: 
 --------------------
