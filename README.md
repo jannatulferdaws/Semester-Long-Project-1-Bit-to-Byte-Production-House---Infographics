@@ -16,11 +16,6 @@
   4.To make an effective and efficient admission process
   
 
- ## Meeting Minutes 01
- ----------------------
- 
-![image](https://user-images.githubusercontent.com/45651547/206247746-e7b080c8-75b9-46a3-a042-df14a353cd8d.png)
-
 ## Required Tools: 
 --------------------
 ### Design: 
@@ -35,10 +30,6 @@
 
 ![image](https://user-images.githubusercontent.com/45651547/206258113-39678ce7-f5d7-4f8f-971d-270c9bf01d01.png)
 
-## Meeting Minutes 02:
------------------------
-
-![image](https://user-images.githubusercontent.com/45651547/206247484-b29d5e3c-65b0-4c5a-985a-1877b43f8dc2.png)
 
 ## Infographic Flowchart:
 ---------------------------
